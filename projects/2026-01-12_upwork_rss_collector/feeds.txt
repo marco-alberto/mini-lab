@@ -1,0 +1,6 @@
+# Excel cleanup
+https://www.upwork.com/nx/search/jobs/?client_hires=1-9,10-&contractor_tier=1,2&nbs=1&q=Excel%20cleanup&sort=relevance%2Bdesc&t=1&rss=1
+# Python scripts
+https://www.upwork.com/nx/search/jobs/?client_hires=1-9,10-&contractor_tier=1,2&q=Python%20script&sort=relevance%2Bdesc&t=1&rss=1
+# Web scraping
+https://www.upwork.com/nx/search/jobs/?client_hires=1-9,10-&contractor_tier=1,2&q=Web%20scraping&sort=relevance%2Bdesc&t=1&rss=1
